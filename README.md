@@ -2,7 +2,7 @@
 
 
 ## Description
-This project enhances an existing Kanban board application by implementing authentication using JSON Web Tokens (JWTs). JWT authentication ensures secure user identity verification, enabling users to log in and manage their tasks safely. The application features a login page, protected API routes, and is deployed on Render. It utilizes Express.js for routing, MongoDB as the database, and Mongoose ODM for database interactions. The API supports CRUD operations for users, thoughts, reactions, and friend management.
+This project enhances an existing Kanban board application by implementing authentication using JSON Web Tokens (JWTs). JWT authentication ensures secure user identity verification, enabling users to log in and manage their tasks safely. The application features a login page, protected API routes, and is deployed on Render. 
 
 
 ## Badge
